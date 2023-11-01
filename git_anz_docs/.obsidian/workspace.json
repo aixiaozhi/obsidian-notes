@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a76361db5bd37d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何上传github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LITTLE.md",
+                "file": "如何上传github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LITTLE.md",
+                "file": "如何上传github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LITTLE.md"
+                "file": "如何上传github.md"
               }
             }
           }
@@ -155,9 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5759e7a8b98e8b9f",
+  "active": "7a76361db5bd37d0",
   "lastOpenFiles": [
     "LITTLE.md",
+    "如何上传github.md",
     "未命名little"
   ]
 }
