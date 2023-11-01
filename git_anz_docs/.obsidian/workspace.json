@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "5eae31f7de6ee5fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LITTLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7a76361db5bd37d0",
             "type": "leaf",
             "state": {
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
