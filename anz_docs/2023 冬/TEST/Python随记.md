@@ -4,3 +4,5 @@ options 是一个字典，其key字典中的关键字可能会是是我们所有
 key可以理解为index，然后对应value
 args可以理解为由positional arguments组成的列表
 [【转】Python之optparse模块OptionParser的使用方法_optparse.optionparser()-CSDN博客](https://blog.csdn.net/qq_38684504/article/details/100975952)
+
+一个类应该有：类变量
