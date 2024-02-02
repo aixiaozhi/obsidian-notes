@@ -6,3 +6,4 @@
 ### ctrl+2= pull
 ### ctrl+3=push
 
+### 新开一个地方的时候可以直接用obsidian打开这个
