@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "密码.md",
+                "file": "项目/RISCV 64 位流片.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "密码.md",
+                "file": "项目/RISCV 64 位流片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码.md",
+                "file": "项目/RISCV 64 位流片.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "密码.md"
+                "file": "项目/RISCV 64 位流片.md"
               }
             }
           }
@@ -207,8 +207,15 @@
   },
   "active": "85417c7a9f49fa60",
   "lastOpenFiles": [
-    "如何上传github.md",
+    "Pasted image 20240202165248.png",
+    "Pasted image 20240202165027.png",
+    "Pasted image 20240202161946.png",
+    "未命名.md",
+    "项目/RISCV 64 位流片.md",
+    "项目",
+    "2023 冬/TO DO LIST.md",
     "密码.md",
+    "如何上传github.md",
     "conflict-files-obsidian-git.md",
     "2023 冬/C++随记.md",
     "2023 冬/cache 笔记.md",
@@ -229,10 +236,6 @@
     "2023 冬/分支预测/改GSHARE.md",
     "2023 冬/分支预测/分支预测随记.md",
     "2023 冬/分支预测/分支预测论文阅读.md",
-    "2023 冬/分支预测/分支预测 tips.md",
-    "2023 冬/分支预测/2023 Branch Target Buffer Organizations.md",
-    "2023 冬/分支预测/2021 BTB 阅读.md",
-    "2023 冬/分支预测/2018 ISCA BTB替换策略.md",
     "Pasted image 20240104164937.png",
     "Pasted image 20240112153051.png",
     "Pasted image 20240112152727.png",
@@ -243,10 +246,7 @@
     "2023 冬/分支预测",
     "Pasted image 20231219135923.png",
     "Pasted image 20231214163751.png",
-    "2023 冬/图片/Pasted image 20231214163715.png",
-    "2023 冬/图片/Pasted image 20231214141622.png",
     "2023 冬/上海中心",
-    "未命名",
     "2023 冬/pptCA58.tmp",
     "2023 冬/pptC72A.tmp",
     "2023 冬/~$test.pptx",
