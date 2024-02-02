@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "911c5254ffd79b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "密码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cbaef71a0d47c2a1",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何上传github.md",
+                "file": "密码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何上传github.md",
+                "file": "密码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何上传github.md"
+                "file": "密码.md"
               }
             }
           }
@@ -193,10 +205,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8aba706a50863804",
+  "active": "911c5254ffd79b37",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "如何上传github.md",
+    "密码.md",
+    "conflict-files-obsidian-git.md",
     "2023 冬/图片/Pasted image 20240112153051.png",
     "2023 冬/图片/Pasted image 20240112152727.png",
     "2023 冬/图片/Pasted image 20240109151307.png",
@@ -229,7 +242,6 @@
     "2023 冬/分支预测/2023 Branch Target Buffer Organizations.md",
     "2023 冬/分支预测/2021 BTB 阅读.md",
     "2023 冬/分支预测/2018 ISCA BTB替换策略.md",
-    "2023 冬/上海中心/Fetch详解.md",
     "Pasted image 20240112153051.png",
     "2023 冬/支委会",
     "2023 冬/分支预测",
