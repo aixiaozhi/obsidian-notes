@@ -6,10 +6,8 @@
 ### ctrl+2= pull
 ### ctrl+3=push
 
-<<<<<<< HEAD
 github name aixiaozhi
 email 1622904115@qq.com
-
-=======
+passwd 159357258A*
 ### 新开一个地方的时候可以直接用obsidian打开这个
 
