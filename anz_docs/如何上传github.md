@@ -12,4 +12,4 @@ email 1622904115@qq.com
 
 =======
 ### 新开一个地方的时候可以直接用obsidian打开这个
->>>>>>> origin/master
+ origin/master
