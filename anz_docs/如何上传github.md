@@ -6,3 +6,6 @@
 ### ctrl+2= pull
 ### ctrl+3=push
 
+github name aixiaozhi
+email 1622904115@qq.com
+
