@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/RISCV 64 位流片.md",
+                "file": "2023 冬/backEnd Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ee4429ca40bccf44",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/RISCV 64 位流片.md",
+                "file": "2023 冬/backEnd Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目/RISCV 64 位流片.md",
+                "file": "2023 冬/backEnd Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/RISCV 64 位流片.md"
+                "file": "2023 冬/backEnd Note.md"
               }
             }
           }
@@ -192,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +206,29 @@
   },
   "active": "85417c7a9f49fa60",
   "lastOpenFiles": [
+    "2023 冬/一些账号.md",
+    "2023 冬/backEnd Note.md",
+    "2023 冬/Store流水线.md",
+    "2023 冬/LOAD流水线.md",
+    "2023 冬/load_q.md",
+    "2023 冬/前递问题.md",
+    "项目/RISCV 64 位流片.md",
+    "2023 冬/原子指令.md",
+    "2023 冬/预取文章.md",
+    "2023 冬/开始建立WSL跑GPGPU-SIM.md",
+    "2023 冬/分支预测/whisper profile-guided bp 阅读.md",
+    "2023 冬/分支预测/改GSHARE.md",
+    "2023 冬/分支预测/分支预测论文阅读.md",
+    "2023 冬/分支预测/分支预测 tips.md",
+    "2023 冬/分支预测/未命名.md",
+    "2023 冬/分支预测/分支预测随记.md",
+    "2023 冬/分支预测/2023 Branch Target Buffer Organizations.md",
+    "2023 冬/分支预测/2021 BTB 阅读.md",
+    "2023 冬/分支预测/2018 ISCA BTB替换策略.md",
     "Pasted image 20240202165248.png",
     "Pasted image 20240202165027.png",
     "Pasted image 20240202161946.png",
     "未命名.md",
-    "项目/RISCV 64 位流片.md",
     "项目",
     "2023 冬/TO DO LIST.md",
     "密码.md",
@@ -219,23 +236,6 @@
     "conflict-files-obsidian-git.md",
     "2023 冬/C++随记.md",
     "2023 冬/cache 笔记.md",
-    "2023 冬/ARM系列产品.md",
-    "2023 冬/原子指令.md",
-    "2023 冬/预取文章.md",
-    "2023 冬/一些账号.md",
-    "2023 冬/前递问题.md",
-    "2023 冬/开始建立WSL跑GPGPU-SIM.md",
-    "2023 冬/浮点数.md",
-    "2023 冬/支委会/支委会.md",
-    "2023 冬/上海中心/RISCV-ISA 32bit-2-64bit.md",
-    "2023 冬/上海中心/RV64 FDC指令集扩展.md",
-    "2023 冬/上海中心/Fetch对外接口.md",
-    "2023 冬/上海中心/egret 运行.md",
-    "2023 冬/上海中心/看egret跑分.md",
-    "2023 冬/分支预测/未命名.md",
-    "2023 冬/分支预测/改GSHARE.md",
-    "2023 冬/分支预测/分支预测随记.md",
-    "2023 冬/分支预测/分支预测论文阅读.md",
     "Pasted image 20240104164937.png",
     "Pasted image 20240112153051.png",
     "Pasted image 20240112152727.png",
@@ -245,7 +245,6 @@
     "2023 冬/上海中心/Pasted image 20231214144008.png",
     "2023 冬/分支预测",
     "Pasted image 20231219135923.png",
-    "Pasted image 20231214163751.png",
     "2023 冬/上海中心",
     "2023 冬/pptCA58.tmp",
     "2023 冬/pptC72A.tmp",
