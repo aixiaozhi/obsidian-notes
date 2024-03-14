@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/RISCV 64位 项目复盘.md",
+                "file": "项目/RISCV 64 位流片.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/RISCV 64位 项目复盘.md",
+                "file": "项目/RISCV 64 位流片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目/RISCV 64位 项目复盘.md",
+                "file": "项目/RISCV 64 位流片.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/RISCV 64位 项目复盘.md"
+                "file": "项目/RISCV 64 位流片.md"
               }
             }
           }
@@ -206,8 +206,9 @@
   },
   "active": "e29421c1a1621cef",
   "lastOpenFiles": [
-    "项目/RISCV 64 位流片.md",
+    "2023 冬/cache 笔记.md",
     "项目/RISCV 64位 项目复盘.md",
+    "项目/RISCV 64 位流片.md",
     "2023 冬/C++随记.md",
     "2023 冬/backEnd Note.md",
     "2023 冬/一些账号.md",
@@ -235,7 +236,6 @@
     "2023 冬/TO DO LIST.md",
     "密码.md",
     "如何上传github.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240104164937.png",
     "Pasted image 20240112153051.png",
     "Pasted image 20240112152727.png",
