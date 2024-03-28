@@ -49,9 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 冬/C++系统学习/第一章.md",
+                "file": "2023 冬/前递问题.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7df92ec4b865693c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
               }
             }
           },
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 冬/C++系统学习/第一章.md",
+                "file": "2023 冬/前递问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 冬/C++系统学习/第一章.md",
+                "file": "2023 冬/前递问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 冬/C++系统学习/第一章.md"
+                "file": "2023 冬/前递问题.md"
               }
             }
           }
@@ -217,10 +227,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "174ae7c14cf3948b",
+  "active": "7df92ec4b865693c",
   "lastOpenFiles": [
-    "2023 冬/C++随记.md",
+    "2023 冬/Store流水线.md",
+    "2023 冬/LOAD流水线.md",
+    "2023 冬/load_q.md",
+    "2023 冬/CUDA和GPGPU.md",
+    "2023 冬/cache 笔记.md",
+    "2023 冬/前递问题.md",
     "2023 冬/C++系统学习/第一章.md",
+    "2023 冬/C++随记.md",
     "2023 冬/C++系统学习",
     "2023 冬/分支预测/2021 BTB 阅读.md",
     "密码.md",
@@ -234,22 +250,16 @@
     "2023 冬/分支预测/whisper profile-guided bp 阅读.md",
     "2023 冬/backEnd Note.md",
     "如何上传github.md",
-    "2023 冬/cache 笔记.md",
     "2023 冬/ARM系列产品.md",
     "2023 冬/原子指令.md",
     "2023 冬/预取文章.md",
     "2023 冬/一些账号.md",
-    "2023 冬/前递问题.md",
     "2023 冬/开始建立WSL跑GPGPU-SIM.md",
     "2023 冬/浮点数.md",
     "2023 冬/支委会/支委会.md",
     "2023 冬/上海中心/RISCV-ISA 32bit-2-64bit.md",
     "2023 冬/上海中心/RV64 FDC指令集扩展.md",
     "2023 冬/上海中心/Fetch对外接口.md",
-    "2023 冬/上海中心/egret 运行.md",
-    "2023 冬/上海中心/看egret跑分.md",
-    "2023 冬/分支预测/未命名.md",
-    "2023 冬/分支预测/改GSHARE.md",
     "Pasted image 20240104164937.png",
     "Pasted image 20240112153051.png",
     "Pasted image 20240112152727.png",
