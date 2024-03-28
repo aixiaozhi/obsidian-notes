@@ -66,6 +66,18 @@
             }
           },
           {
+            "id": "972d785bd9065a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cbaef71a0d47c2a1",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 冬/前递问题.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 冬/前递问题.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 冬/前递问题.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -227,8 +239,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7df92ec4b865693c",
+  "active": "972d785bd9065a29",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "2023 冬/Store流水线.md",
     "2023 冬/LOAD流水线.md",
     "2023 冬/load_q.md",
@@ -240,7 +253,6 @@
     "2023 冬/C++系统学习",
     "2023 冬/分支预测/2021 BTB 阅读.md",
     "密码.md",
-    "conflict-files-obsidian-git.md",
     "项目/RISCV 64位 项目复盘.md",
     "项目/RISCV 64 位流片.md",
     "项目",
