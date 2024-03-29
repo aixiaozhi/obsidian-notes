@@ -14,7 +14,7 @@ include <vector>; include<algorithm>;vector<string> a;
 可以用max_element和min_element求最大最小值的位置，用星号求最大最小值
 ![[Pasted image 20240325154732.png|600]]
 **注意：对于vector类型的判断for(i=0;i<=a.size();i++),不可以用<=，因为比如一共有1个元素，但此时是访问的a[0]，可用i != a.size()**
-
+**sort**函数：默认从小到大，也可以从大到小
 
 
 
