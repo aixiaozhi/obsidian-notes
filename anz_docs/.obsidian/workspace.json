@@ -25,33 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 冬/上海中心/Fetch详解.md",
+                "file": "2023 冬/C++随记.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e29421c1a1621cef",
+            "id": "85417c7a9f49fa60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 春/verilog全面复盘.md",
+                "file": "项目/RISCV 64位 项目复盘.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "52ca0626bfed69fc",
+            "id": "174ae7c14cf3948b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 春/C++系统学习.md",
+                "file": "2023 冬/前递问题.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7df92ec4b865693c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
               }
             }
           },
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "ee4429ca40bccf44",
@@ -156,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 春/C++系统学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 春/C++系统学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,16 +203,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024 春/C++系统学习.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,48 +223,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "52ca0626bfed69fc",
+  "active": "7df92ec4b865693c",
   "lastOpenFiles": [
     "2024_3_28/3_28没带电脑.md",
+    "Pasted image 20240326192725.png",
+    "Pasted image 20240325154732.png",
+    "Pasted image 20240314220725.png",
+    "Pasted image 20240314213512.png",
     "2024 春/面试长谈.md",
     "2024 春/verilog全面复盘.md",
     "2024 春/C++系统学习.md",
-    "conflict-files-obsidian-git.md",
-    "2024_3_28",
-    "Pasted image 20240326192725.png",
-    "2023 冬/原子指令.md",
-    "2023 冬/分支预测/分支预测随记.md",
-    "2023 冬/分支预测/分支预测论文阅读.md",
-    "2023 冬/分支预测/分支预测 tips.md",
-    "2023 冬/分支预测/2018 ISCA BTB替换策略.md",
-    "Pasted image 20240325154732.png",
-    "Pasted image 20240314220725.png",
-    "Pasted image 20240325125536.png",
-    "Pasted image 20240325125545.png",
-    "Pasted image 20240325154139.png",
-    "Pasted image 20240325154202.png",
-    "Pasted image 20240325154351.png",
-    "Pasted image 20240325154228.png",
-    "Pasted image 20240314213512.png",
-    "2023 冬/C++系统学习/第一章.md",
-    "项目/RISCV 64 位流片.md",
     "2024 春",
-    "项目/RISCV 64位 项目复盘.md",
-    "2023 冬/cache 笔记.md",
-    "2023 冬/C++随记.md",
-    "2023 冬/backEnd Note.md",
-    "2023 冬/ARM系列产品.md",
-    "2023 冬/预取文章.md",
-    "2023 冬/一些账号.md",
-    "2023 冬/前递问题.md",
-    "2023 冬/开始建立WSL跑GPGPU-SIM.md",
-    "2023 冬/C++系统学习",
+    "2024_3_28",
+    "conflict-files-obsidian-git.md",
     "2023 冬/Store流水线.md",
     "2023 冬/LOAD流水线.md",
     "2023 冬/load_q.md",
-    "2023 冬/分支预测/whisper profile-guided bp 阅读.md",
-    "2023 冬/分支预测/改GSHARE.md",
+    "2023 冬/CUDA和GPGPU.md",
+    "2023 冬/cache 笔记.md",
+    "2023 冬/前递问题.md",
+    "2023 冬/C++系统学习/第一章.md",
+    "2023 冬/C++随记.md",
+    "2023 冬/C++系统学习",
+    "2023 冬/分支预测/2021 BTB 阅读.md",
+    "密码.md",
+    "项目/RISCV 64位 项目复盘.md",
+    "项目/RISCV 64 位流片.md",
     "项目",
+    "Pasted image 20240202165248.png",
+    "Pasted image 20240202165027.png",
+    "Pasted image 20240202161946.png",
+    "2023 冬/分支预测/whisper profile-guided bp 阅读.md",
+    "2023 冬/backEnd Note.md",
+    "如何上传github.md",
+    "2023 冬/ARM系列产品.md",
+    "2023 冬/原子指令.md",
+    "2023 冬/预取文章.md",
+    "2023 冬/一些账号.md",
+    "2023 冬/开始建立WSL跑GPGPU-SIM.md",
+    "Pasted image 20240104164937.png",
+    "Pasted image 20240112153051.png",
+    "Pasted image 20240112152727.png",
     "2023 冬/支委会",
     "2023 冬/分支预测",
     "2023 冬/上海中心",
