@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "ba0754a68d3d42a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cbaef71a0d47c2a1",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 春/C++系统学习.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 春/C++系统学习.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 春/C++系统学习.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -216,8 +228,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "52ca0626bfed69fc",
+  "active": "ba0754a68d3d42a8",
   "lastOpenFiles": [
+    "2024 春/C++系统学习.md",
+    "conflict-files-obsidian-git.md",
     "2024 春/面试长谈.md",
     "Pasted image 20240326192725.png",
     "2023 冬/原子指令.md",
@@ -225,7 +239,6 @@
     "2023 冬/分支预测/分支预测论文阅读.md",
     "2023 冬/分支预测/分支预测 tips.md",
     "2023 冬/分支预测/2018 ISCA BTB替换策略.md",
-    "2024 春/C++系统学习.md",
     "Pasted image 20240325154732.png",
     "2024 春/verilog全面复盘.md",
     "Pasted image 20240314220725.png",
@@ -248,7 +261,6 @@
     "2023 冬/一些账号.md",
     "2023 冬/前递问题.md",
     "2023 冬/开始建立WSL跑GPGPU-SIM.md",
-    "conflict-files-obsidian-git.md",
     "2023 冬/C++系统学习",
     "2023 冬/Store流水线.md",
     "2023 冬/LOAD流水线.md",
