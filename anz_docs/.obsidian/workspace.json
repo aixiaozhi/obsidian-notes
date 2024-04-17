@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 春/面试长谈.md",
+                "file": "2024 春/数字IC基本问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 春/面试长谈.md",
+                "file": "2024 春/数字IC基本问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 春/面试长谈.md",
+                "file": "2024 春/数字IC基本问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 春/面试长谈.md",
+                "file": "2024 春/数字IC基本问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 春/面试长谈.md"
+                "file": "2024 春/数字IC基本问题.md"
               }
             }
           }
@@ -228,12 +228,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45c7570b87944727",
+  "active": "52ca0626bfed69fc",
   "lastOpenFiles": [
-    "2024 春/C++系统学习.md",
-    "Pasted image 20240329144345.png",
-    "2024 春/面试长谈.md",
     "2024 春/verilog全面复盘.md",
+    "2024 春/C++系统学习.md",
+    "2024 春/面试长谈.md",
+    "2024 春/数字IC基本问题.md",
+    "Pasted image 20240416125332.png",
+    "Pasted image 20240416112357.png",
+    "0447a4dcf10c62647a4e0f1864c112b.jpg",
+    "Pasted image 20240416111834.png",
+    "Pasted image 20240409140206.png",
+    "Pasted image 20240329144345.png",
     "2024_3_28/3_28没带电脑.md",
     "conflict-files-obsidian-git.md",
     "2024_3_28",
@@ -246,11 +252,6 @@
     "Pasted image 20240325154732.png",
     "Pasted image 20240314220725.png",
     "Pasted image 20240325125536.png",
-    "Pasted image 20240325125545.png",
-    "Pasted image 20240325154139.png",
-    "Pasted image 20240325154202.png",
-    "Pasted image 20240325154351.png",
-    "Pasted image 20240325154228.png",
     "2023 冬/C++系统学习/第一章.md",
     "项目/RISCV 64 位流片.md",
     "2024 春",
@@ -267,7 +268,6 @@
     "2023 冬/Store流水线.md",
     "2023 冬/LOAD流水线.md",
     "2023 冬/load_q.md",
-    "2023 冬/分支预测/whisper profile-guided bp 阅读.md",
     "项目",
     "2023 冬/支委会",
     "2023 冬/分支预测",
