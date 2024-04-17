@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "30dee89ed0c6f767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cbaef71a0d47c2a1",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 冬/上海中心/Fetch对外接口.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023 冬/上海中心/Fetch对外接口.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023 冬/上海中心/Fetch对外接口.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -237,8 +249,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dbb39cd8aec8c602",
+  "active": "30dee89ed0c6f767",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20240416125332.png",
+    "Pasted image 20240416112357.png",
+    "Pasted image 20240416111834.png",
+    "Pasted image 20240409140206.png",
+    "Pasted image 20240329144345.png",
+    "2024 春/数字IC基本问题.md",
+    "0447a4dcf10c62647a4e0f1864c112b.jpg",
     "2024_3_28/3_28没带电脑.md",
     "Pasted image 20240326192725.png",
     "Pasted image 20240325154732.png",
@@ -249,7 +269,6 @@
     "2024 春/C++系统学习.md",
     "2024 春",
     "2024_3_28",
-    "conflict-files-obsidian-git.md",
     "2023 冬/Store流水线.md",
     "2023 冬/LOAD流水线.md",
     "2023 冬/load_q.md",
@@ -264,9 +283,6 @@
     "项目/RISCV 64位 项目复盘.md",
     "项目/RISCV 64 位流片.md",
     "项目",
-    "Pasted image 20240202165248.png",
-    "Pasted image 20240202165027.png",
-    "Pasted image 20240202161946.png",
     "2023 冬/分支预测/whisper profile-guided bp 阅读.md",
     "2023 冬/backEnd Note.md",
     "如何上传github.md",
@@ -274,10 +290,6 @@
     "2023 冬/原子指令.md",
     "2023 冬/预取文章.md",
     "2023 冬/一些账号.md",
-    "2023 冬/开始建立WSL跑GPGPU-SIM.md",
-    "Pasted image 20240104164937.png",
-    "Pasted image 20240112153051.png",
-    "Pasted image 20240112152727.png",
     "2023 冬/支委会",
     "2023 冬/分支预测",
     "2023 冬/上海中心",
