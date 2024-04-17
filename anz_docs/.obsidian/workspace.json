@@ -66,6 +66,16 @@
             }
           },
           {
+            "id": "dbb39cd8aec8c602",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "cbaef71a0d47c2a1",
             "type": "leaf",
             "state": {
@@ -100,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023 冬/上海中心/Fetch对外接口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023 冬/上海中心/Fetch对外接口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023 冬/上海中心/Fetch对外接口.md"
+              }
             }
           }
         ]
@@ -223,7 +237,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7df92ec4b865693c",
+  "active": "dbb39cd8aec8c602",
   "lastOpenFiles": [
     "2024_3_28/3_28没带电脑.md",
     "Pasted image 20240326192725.png",
