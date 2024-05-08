@@ -81,7 +81,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "密码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f9bc366fa4dfbd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023 冬/cache 笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9ecb099867fe950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "就诊记录/2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -188,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "就诊记录/2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "就诊记录/2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "就诊记录/2024.md"
               }
             }
           }
@@ -249,52 +273,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "30dee89ed0c6f767",
+  "active": "c9ecb099867fe950",
   "lastOpenFiles": [
+    "Pasted image 20240508140958.png",
+    "Pasted image 20240508140737.png",
+    "Pasted image 20240508140653.png",
+    "Pasted image 20240508140639.png",
+    "Pasted image 20240508140609.png",
+    "就诊记录/2024.md",
+    "2023 冬/cache 笔记.md",
+    "就诊记录",
+    "Pasted image 20240428134550.png",
+    "2023 冬/TO DO LIST.md",
+    "2023 冬/Store流水线.md",
+    "2023 冬/LOAD流水线.md",
+    "2023 冬/load_q.md",
+    "2023 冬/CUDA和GPGPU.md",
+    "gem5/gem5 启动.md",
+    "22服务器.md",
+    "gem5",
+    "密码.md",
+    "2024 春/C++系统学习.md",
+    "Pasted image 20240418171149.png",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240416125332.png",
     "Pasted image 20240416112357.png",
     "Pasted image 20240416111834.png",
     "Pasted image 20240409140206.png",
-    "Pasted image 20240329144345.png",
     "2024 春/数字IC基本问题.md",
-    "0447a4dcf10c62647a4e0f1864c112b.jpg",
     "2024_3_28/3_28没带电脑.md",
-    "Pasted image 20240326192725.png",
-    "Pasted image 20240325154732.png",
-    "Pasted image 20240314220725.png",
-    "Pasted image 20240314213512.png",
     "2024 春/面试长谈.md",
     "2024 春/verilog全面复盘.md",
-    "2024 春/C++系统学习.md",
     "2024 春",
     "2024_3_28",
-    "2023 冬/Store流水线.md",
-    "2023 冬/LOAD流水线.md",
-    "2023 冬/load_q.md",
-    "2023 冬/CUDA和GPGPU.md",
-    "2023 冬/cache 笔记.md",
     "2023 冬/前递问题.md",
     "2023 冬/C++系统学习/第一章.md",
     "2023 冬/C++随记.md",
     "2023 冬/C++系统学习",
     "2023 冬/分支预测/2021 BTB 阅读.md",
-    "密码.md",
     "项目/RISCV 64位 项目复盘.md",
     "项目/RISCV 64 位流片.md",
     "项目",
     "2023 冬/分支预测/whisper profile-guided bp 阅读.md",
     "2023 冬/backEnd Note.md",
     "如何上传github.md",
-    "2023 冬/ARM系列产品.md",
-    "2023 冬/原子指令.md",
-    "2023 冬/预取文章.md",
-    "2023 冬/一些账号.md",
     "2023 冬/支委会",
     "2023 冬/分支预测",
     "2023 冬/上海中心",
-    "2023 冬/pptCA58.tmp",
-    "2023 冬/pptC72A.tmp",
-    "2023 冬/~$test.pptx"
+    "2023 冬/pptCA58.tmp"
   ]
 }
