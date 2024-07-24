@@ -1,4 +1,4 @@
-### setup 和 hold tim
+### setup 和 hold time
 ![[Pasted image 20240409140206.png]]
 setup time提前到来，保持新数据的稳定，hold time时序检查确保新数据不会在触发器稳定输出初始数据之前过早到达D端而覆盖其初始数据
 建立时间决定了该触发器之间的组合逻辑的**最大延迟，即频率上限**

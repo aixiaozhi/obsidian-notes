@@ -4,79 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "778e2f6d5559e308",
+        "id": "8382c522bc26ca21",
         "type": "tabs",
         "children": [
           {
-            "id": "faf00a11a7523e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 冬/上海中心/Fetch对外接口.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aba706a50863804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 冬/C++随记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85417c7a9f49fa60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/RISCV 64位 项目复盘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "174ae7c14cf3948b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 冬/前递问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7df92ec4b865693c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "dbb39cd8aec8c602",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "30dee89ed0c6f767",
+            "id": "f0f82d6254a37570",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,65 +20,103 @@
             }
           },
           {
-            "id": "2f9bc366fa4dfbd0",
+            "id": "3ca2e47723e7af53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 冬/cache 笔记.md",
+                "file": "champsim/workload.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c9ecb099867fe950",
+            "id": "2ac9724855e095a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "就诊记录/2024.md",
+                "file": "champsim/linux下载文件命令.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cbaef71a0d47c2a1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2023 冬/上海中心/Pasted image 20231214144008.png"
-              }
-            }
-          },
-          {
-            "id": "d1f1aa1841db6e15",
+            "id": "7fef363308d94abc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 冬/开始建立WSL跑GPGPU-SIM.md",
+                "file": "华为实习/data prefetch论文阅读.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e1aac28a8b526eb",
+            "id": "17ec212db7876aef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 冬/上海中心/Fetch详解.md",
+                "file": "华为实习/TLB 虚地址实地址 进程线程的理解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0f3c7e4a28cece2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "华为实习/linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1421a3ceb0826178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "华为实习/DRAM学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "917c91245df4a7b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何上传github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4a01f0b8c62088a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试复盘&常问问题/数字IC基本问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -212,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "就诊记录/2024.md",
+                "file": "如何上传github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "就诊记录/2024.md",
+                "file": "如何上传github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "就诊记录/2024.md"
+                "file": "如何上传github.md"
               }
             }
           }
@@ -273,52 +243,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c9ecb099867fe950",
+  "active": "917c91245df4a7b7",
   "lastOpenFiles": [
-    "密码.md",
     "22服务器.md",
-    "2024 春/图片",
-    "2024 春/图片/Pasted image 20240202161946.png",
-    "就诊记录/2024.md",
-    "2024 春/图片/Pasted image 20240508140958.png",
-    "2024 春/图片/Pasted image 20240508140737.png",
-    "2024 春/图片/Pasted image 20240508140653.png",
-    "2024 春/图片/Pasted image 20240508140639.png",
-    "2024 春/图片/Pasted image 20240508140609.png",
-    "2023 冬/cache 笔记.md",
-    "就诊记录",
-    "2024 春/图片/Pasted image 20240428134550.png",
-    "2023 冬/TO DO LIST.md",
-    "2023 冬/Store流水线.md",
-    "2023 冬/LOAD流水线.md",
-    "2023 冬/load_q.md",
-    "2023 冬/CUDA和GPGPU.md",
-    "gem5/gem5 启动.md",
-    "gem5",
-    "2024 春/C++系统学习.md",
-    "2024 春/图片/Pasted image 20240418171149.png",
-    "conflict-files-obsidian-git.md",
-    "2024 春/图片/Pasted image 20240416125332.png",
-    "2024 春/图片/Pasted image 20240416112357.png",
-    "2024 春/数字IC基本问题.md",
-    "2024_3_28/3_28没带电脑.md",
-    "2024 春/面试长谈.md",
+    "密码.md",
+    "图片/Pasted image 20240628100814.png",
+    "obsidian 技巧.md",
+    "图片",
+    "华为实习/DRAM学习.md",
+    "图片/Pasted image 20240724094636.png",
+    "图片/Pasted image 20240724094542.png",
+    "华为实习/Daily.md",
+    "华为实习/champsim.md",
+    "华为实习/C++.md",
+    "华为实习/一些路上的思考.md",
+    "面试复盘&常问问题/数字IC基本问题.md",
+    "面试复盘&常问问题/我的项目问题.md",
     "2024 春/verilog全面复盘.md",
-    "2024 春",
-    "2024_3_28",
-    "2023 冬/前递问题.md",
-    "2023 冬/C++系统学习/第一章.md",
-    "2023 冬/C++随记.md",
-    "2023 冬/C++系统学习",
-    "2023 冬/分支预测/2021 BTB 阅读.md",
+    "2024 春/C++系统学习.md",
+    "2024 春/C++实例中遇到的问题与修改.md",
+    "华为实习/TLB 虚地址实地址 进程线程的理解.md",
+    "华为横向/B-BTB 和 R-BTB的区别.md",
+    "2024 夏/进程 线程.md",
+    "面试复盘&常问问题/未命名.md",
+    "就诊记录/2024.md",
+    "面试复盘&常问问题",
     "项目/RISCV 64位 项目复盘.md",
     "项目/RISCV 64 位流片.md",
-    "项目",
-    "2023 冬/分支预测/whisper profile-guided bp 阅读.md",
-    "2023 冬/backEnd Note.md",
+    "华为横向/909cabdd5db1bba656ce7cbbe463924.jpg",
     "如何上传github.md",
-    "2023 冬/支委会",
-    "2023 冬/分支预测",
-    "2023 冬/上海中心"
+    "champsim/Zotero.md",
+    "champsim/workload.md",
+    "champsim/linux下载文件命令.md",
+    "2023 冬/LOAD流水线.md",
+    "2023 冬/上海中心/Pasted image 20231214151615.png",
+    "2023 冬/上海中心/Pasted image 20231214144008.png",
+    "图片/Pasted image 20240717185926.png",
+    "图片/Pasted image 20240717185816.png",
+    "图片/b855346842c6cd4ed7dab6f6c4136e9.jpg",
+    "华为实习",
+    "华为横向",
+    "2024 夏",
+    "2024 春/图片/Pasted image 20240517112428.png",
+    "champsim",
+    "2024 春/图片",
+    "就诊记录",
+    "gem5",
+    "2024 春"
   ]
 }
