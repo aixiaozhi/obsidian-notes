@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试复盘&常问问题/C++&C 问题.md",
+                "file": "项目/RISCV 64位 项目复盘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3654704f99aa5084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何上传github.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试复盘&常问问题/C++&C 问题.md",
+                "file": "如何上传github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试复盘&常问问题/C++&C 问题.md",
+                "file": "如何上传github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试复盘&常问问题/C++&C 问题.md"
+                "file": "如何上传github.md"
               }
             }
           }
@@ -243,53 +255,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5759e7a8b98e8b9f",
+  "active": "3654704f99aa5084",
   "lastOpenFiles": [
-    "C++",
-    "华为实习/C++学习.md",
+    "obsidian 技巧.md",
+    "如何上传github.md",
+    "密码.md",
+    "22服务器.md",
+    "C++/C++&C 问题.md",
+    "C++/C++ 侯捷.md",
+    "C++/C++.md",
+    "C++/Effective C++.md",
+    "图片/Pasted image 20241008160123.png",
+    "C++/C++学习.md",
+    "面试辅导/2024.10.4 胡曼玥.md",
     "面试复盘&常问问题/数字IC基本问题.md",
-    "华为实习/data prefetch论文阅读.md",
     "面试复盘&常问问题/数据结构与算法.md",
+    "项目/RISCV 64位 项目复盘.md",
+    "面试辅导",
+    "项目/RISCV 64 位流片.md",
     "面试复盘&常问问题/香山 SiFive性能对比.md",
+    "面试复盘&常问问题/我的项目问题.md",
+    "面试复盘&常问问题/未命名.md",
+    "C++",
+    "华为实习/data prefetch论文阅读.md",
     "图片/Pasted image 20240910112618.png",
-    "面试复盘&常问问题/C++&C 问题.md",
     "linux vscode C++配置学习/8月.md",
-    "华为实习/C++.md",
     "2024 春/C++系统学习.md",
     "2024 春/C++实例中遇到的问题与修改.md",
-    "密码.md",
     "图片/Pasted image 20240829222431.png",
-    "面试复盘&常问问题/未命名.md",
     "华为实习/TLB 虚地址实地址 进程线程的理解.md",
     "华为实习/linux.md",
     "华为实习/DRAM学习.md",
     "华为实习/DRAM champsim.md",
     "华为实习/Daily.md",
-    "华为实习/champsim.md",
-    "面试复盘&常问问题/我的项目问题.md",
-    "champsim/Zotero.md",
-    "champsim/问题实录.md",
-    "champsim/linux下载文件命令.md",
-    "champsim/workload.md",
     "图片/Pasted image 20240819203455.png",
     "图片/Pasted image 20240819185932.png",
     "图片/Pasted image 20240819185718.png",
     "图片/Pasted image 20240819184838.png",
     "图片/Pasted image 20240817190345.png",
     "linux vscode C++配置学习",
-    "华为实习/一些路上的思考.md",
-    "obsidian 技巧.md",
     "图片/Pasted image 20240729143711.png",
     "图片/Pasted image 20240729143651.png",
-    "图片/Pasted image 20240729094730.png",
     "图片",
     "面试复盘&常问问题",
     "华为实习",
     "华为横向",
     "2024 夏",
     "champsim",
-    "2024 春/图片",
-    "就诊记录",
-    "gem5"
+    "2024 春/图片"
   ]
 }

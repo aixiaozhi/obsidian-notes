@@ -13,3 +13,4 @@ passwd 159357258A*
 
 如果要上传，首先commit，然后push
 打开obsidian首先pull
+
