@@ -8,7 +8,7 @@
 
 github name aixiaozhi
 email 1622904115@qq.com
-passwd 159357258A*
+passwd 159357258Ai
 ### 新开一个地方的时候可以直接用obsidian打开这个
 
 如果要上传，首先commit，然后push
