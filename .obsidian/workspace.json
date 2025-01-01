@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "de946868192ed8eb",
+    "id": "a14f22e04c8cda92",
     "type": "split",
     "children": [
       {
-        "id": "a7eb6b81d1004a71",
+        "id": "ba510dcd131d761d",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2405a6540aa37f",
+            "id": "ae9f9acd8d9daf6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024 春/C++系统学习.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "C++系统学习"
+              "title": "新标签页"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "333bc4f4d8ac50e9",
+    "id": "30e010b93be49d87",
     "type": "split",
     "children": [
       {
-        "id": "9a6fd8c9b37c80eb",
+        "id": "4fc284d321b32063",
         "type": "tabs",
         "children": [
           {
-            "id": "5759e7a8b98e8b9f",
+            "id": "721c1a53aa4d1c27",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +43,12 @@
             }
           },
           {
-            "id": "3d47c674d61f1078",
+            "id": "7e3ff2769bfba65b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "乐",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "6bc3a9998c00d203",
+            "id": "d3ebb0a66098622c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "ee4429ca40bccf44",
+    "id": "96bab0fd283e5870",
     "type": "split",
     "children": [
       {
-        "id": "f86d6ad820b6a607",
+        "id": "1caf41f3074154bc",
         "type": "tabs",
         "children": [
           {
-            "id": "89b4de6a547a5804",
+            "id": "358f159a7bd91b72",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "champsim/Bingo改进.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Bingo改进 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "11dc3a9581aabd0f",
+            "id": "eb9f99845e8c1c06",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "champsim/Bingo改进.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Bingo改进 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "bdf13b8e83195242",
+            "id": "07b0c828a9f08d7f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,22 +128,20 @@
             }
           },
           {
-            "id": "fe0dc14b9847427c",
+            "id": "1467d694154b0064",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "champsim/Bingo改进.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Bingo改进 的大纲"
+              "title": "大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -162,53 +154,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b2405a6540aa37f",
-  "lastOpenFiles": [
-    "论文记/Golden Cove 参数.md",
-    "champsim/10.14后修改实录.md",
-    "论文记",
-    "champsim/代码讲解.md",
-    "champsim/Average Miss Latency.md",
-    "champsim/Bingo随想.md",
-    "champsim/Bingo代码讲解.md",
-    "图片/Pasted image 20241223191815.png",
-    "champsim/动态分配.md",
-    "华为实习/data prefetch论文阅读.md",
-    "面试复盘&常问问题/我的项目问题.md",
-    "champsim/linux下载文件命令.md",
-    "champsim/PC+2Offset.md",
-    "champsim/问题实录.md",
-    "champsim/Bingo改进.md",
-    "图片/Pasted image 20241120103829.png",
-    "图片/Pasted image 20241118163559.png",
-    "图片/Pasted image 20241118163546.png",
-    "图片/Pasted image 20241118163533.png",
-    "图片/Pasted image 20241118163421.png",
-    "图片/Pasted image 20241118163410.png",
-    "图片/Pasted image 20241118163352.png",
-    "图片/Pasted image 20241118163305.png",
-    "图片/Pasted image 20241118110804.png",
-    "C++/C++.md",
-    "C++/C++学习.md",
-    "C++/C++&C 问题.md",
-    "C++/C++ 侯捷.md",
-    "C++/Effective C++.md",
-    "champsim/Zotero.md",
-    "华为实习/champsim.md",
-    "华为实习/一些路上的思考.md",
-    "华为实习/TLB 虚地址实地址 进程线程的理解.md",
-    "华为实习/linux.md",
-    "华为实习/DRAM学习.md",
-    "华为实习/DRAM champsim.md",
-    "面试复盘&常问问题/异常讲解.md",
-    "面试辅导",
-    "C++",
-    "linux vscode C++配置学习",
-    "图片",
-    "面试复盘&常问问题",
-    "华为实习",
-    "华为横向",
-    "2024 夏",
-    "champsim"
-  ]
+  "active": "ae9f9acd8d9daf6f",
+  "lastOpenFiles": []
 }
