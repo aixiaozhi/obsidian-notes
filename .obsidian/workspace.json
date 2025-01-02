@@ -11,14 +11,10 @@
             "id": "ae9f9acd8d9daf6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anz_docs/就诊记录/2024.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024"
+              "title": "新标签页"
             }
           }
         ]
@@ -160,7 +156,10 @@
   },
   "active": "ae9f9acd8d9daf6f",
   "lastOpenFiles": [
-    "anz_docs/密码.md",
-    "anz_docs/就诊记录/2024.md"
+    "anz_docs/2025 daily plan/一月.md",
+    "anz_docs/2025 daily plan/未命名.md",
+    "anz_docs/未命名.md",
+    "anz_docs/2025 daily plan",
+    "anz_docs/未命名"
   ]
 }
