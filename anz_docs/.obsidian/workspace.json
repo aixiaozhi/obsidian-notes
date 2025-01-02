@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何上传github.md",
+                "file": "就诊记录/2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何上传github"
+              "title": "2024"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "5b2405a6540aa37f",
   "lastOpenFiles": [
+    "如何上传github.md",
     "obsidian 技巧.md",
     "2024 春/C++系统学习.md",
     "论文记/Golden Cove 参数.md",
@@ -200,7 +201,6 @@
     "华为实习/一些路上的思考.md",
     "华为实习/TLB 虚地址实地址 进程线程的理解.md",
     "华为实习/linux.md",
-    "华为实习/DRAM学习.md",
     "面试辅导",
     "C++",
     "linux vscode C++配置学习",
