@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 daily plan/一月.md",
+                "file": "2025 daily plan/一月第一周.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一月"
+              "title": "一月第一周"
             }
           }
         ],
@@ -179,13 +179,15 @@
   },
   "active": "a0ec104edd759d5f",
   "lastOpenFiles": [
+    "图片/Pasted image 20250103152035.png",
+    "图片/Pasted image 20250103141916.png",
     "champsim/10.14后修改实录.md",
     "华为实习/一些路上的思考.md",
     "华为实习/DRAM champsim.md",
     "华为实习/Daily.md",
     "华为实习/champsim.md",
     "华为实习/data prefetch论文阅读.md",
-    "2025 daily plan/一月.md",
+    "2025 daily plan/一月第一周.md",
     "图片/Pasted image 20250102114315.png",
     "2023 冬/TO DO LIST.md",
     "2023 冬/ARM系列产品.md",
@@ -207,7 +209,6 @@
     "champsim/代码讲解.md",
     "champsim/Average Miss Latency.md",
     "champsim/Bingo随想.md",
-    "champsim/Bingo代码讲解.md",
     "图片/Pasted image 20241223191815.png",
     "图片/Pasted image 20241120103829.png",
     "图片/Pasted image 20241118163559.png",
@@ -216,7 +217,6 @@
     "图片/Pasted image 20241118163421.png",
     "图片/Pasted image 20241118163410.png",
     "图片/Pasted image 20241118163352.png",
-    "图片/Pasted image 20241118163305.png",
     "面试辅导",
     "C++",
     "linux vscode C++配置学习",
