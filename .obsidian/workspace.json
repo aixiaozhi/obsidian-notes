@@ -11,10 +11,14 @@
             "id": "ae9f9acd8d9daf6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "anz_docs/2025 daily plan/一月第一周.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "一月第一周"
             }
           }
         ]
@@ -146,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -156,6 +161,7 @@
   },
   "active": "ae9f9acd8d9daf6f",
   "lastOpenFiles": [
+    "anz_docs/论文记/Golden Cove 参数.md",
     "anz_docs/2025 daily plan/一月.md",
     "anz_docs/2025 daily plan/未命名.md",
     "anz_docs/未命名.md",
