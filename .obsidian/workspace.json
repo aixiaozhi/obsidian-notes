@@ -11,12 +11,14 @@
             "id": "ae9f9acd8d9daf6f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "anz_docs/图片/Pasted image 20250103203610.png"
+                "file": "anz_docs/2025 daily plan/一月/一月第三周.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250103203610"
+              "icon": "lucide-file",
+              "title": "一月第三周"
             }
           }
         ]
@@ -157,18 +159,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "721c1a53aa4d1c27",
+  "active": "ae9f9acd8d9daf6f",
   "lastOpenFiles": [
+    "anz_docs/2025 daily plan/一月/一月第一周.md",
+    "anz_docs/2025 daily plan/一月/一月第三周.md",
+    "anz_docs/champsim/10.14后修改实录.md",
+    "anz_docs/2025 daily plan/一月",
+    "anz_docs/图片/Pasted image 20250103203610.png",
     "anz_docs/图片/Pasted image 20250103203322.png",
     "anz_docs/图片/Pasted image 20250103203108.png",
-    "anz_docs/2025 daily plan/一月第一周.md",
     "anz_docs/2025 daily plan/2025.1.7晚上.md",
     "anz_docs/图片/Pasted image 20250109104702.png",
     "anz_docs/图片/Pasted image 20250109104600.png",
     "anz_docs/图片/Pasted image 20250109104548.png",
     "anz_docs/图片/Pasted image 20250109104534.png",
     "anz_docs/图片/Pasted image 20250106164324.png",
-    "anz_docs/图片/Pasted image 20250103203610.png",
     "anz_docs/图片/Pasted image 20250103203049.png",
     "anz_docs/论文记/Golden Cove 参数.md",
     "anz_docs/2025 daily plan/一月.md",
