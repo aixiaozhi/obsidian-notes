@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "2.14"
             }
+          },
+          {
+            "id": "7dbd5d1d0d6d6e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025 daily plan/二月/2.19任务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.19任务"
+            }
+          },
+          {
+            "id": "c32963f70fc10891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025 daily plan/二月/2.19任务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.19任务"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,12 +234,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57c5412cc9b01a05",
+  "active": "c32963f70fc10891",
   "lastOpenFiles": [
-    "2025 daily plan/一月/一月第三周.md",
     "2025 daily plan/二月/2.14.md",
-    "2025 daily plan/二月",
+    "2025 daily plan/二月/2.19任务.md",
+    "图片/Pasted image 20250220155633.png",
+    "m",
+    "图片/Pasted image 20250220151926.png",
+    "2025 daily plan/一月/一月第三周.md",
     "2025 daily plan/一月/一月第一周.md",
+    "2025 daily plan/二月",
     "2025 daily plan/一月/寒假.md",
     "图片/Pasted image 20250205230320.png",
     "图片/Pasted image 20250201151631.png",
@@ -224,8 +256,6 @@
     "图片/Pasted image 20250103203049.png",
     "2025 daily plan/一月",
     "图片/Pasted image 20250109104702.png",
-    "图片/Pasted image 20250109104600.png",
-    "图片/Pasted image 20250109104548.png",
     "champsim/代码讲解.md",
     "champsim/10.14后修改实录.md",
     "华为实习/一些路上的思考.md",
@@ -245,14 +275,11 @@
     "2023 冬/TEST/Load_Pipeline 详细设计方案.md",
     "2025 daily plan",
     "如何上传github.md",
-    "obsidian 技巧.md",
-    "2024 春/C++系统学习.md",
     "论文记",
     "面试辅导",
     "C++",
     "linux vscode C++配置学习",
     "图片",
-    "面试复盘&常问问题",
-    "华为实习"
+    "面试复盘&常问问题"
   ]
 }
